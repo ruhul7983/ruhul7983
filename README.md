@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ruhul7983.github.io/developer_portfolio/"><img src="https://ruhul7983.github.io/developer_portfolio/images/Bg%20Remove.png " /></a>
+<a href="https://ruhul7983.github.io/developer_portfolio/"><img src="https://ruhul7983.github.io/developer_portfolio/images/Bg%20Remove.png" /></a>
 </div>  
   
 
