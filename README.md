@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/352214964_1409171906590751_1565082421456975771_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFt9ocD1B0KBMIlZMxWEeHWV_2AHKHvb5RX_YAcoe9vlPJoipeLEEXZXMbQBrRG9hYKb8anF5Epe7NMNatBlE1E&_nc_ohc=KbyDZteY-4kAX-rkW1x&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDfshUbdx72hjUdiIZ9-k7wWk85OJRZJy9HGBi2k231vg&oe=64CF0F3A" align="center" style="width: 100%" />
+<img src="https://ruhul7983.github.io/developer_portfolio/images/Bg%20Remove.png" />
 </div>  
   
 
