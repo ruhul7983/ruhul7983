@@ -1,6 +1,6 @@
 <style>
   .display-img{
-    height : "550px";
+    height: "550px";
   }
 </style>
 <div align="center">
