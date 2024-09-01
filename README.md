@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-<p align="left"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Ruhul Amin" height="50" /> </p>
+<p align="left"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Ruhul Amin" height="50" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
