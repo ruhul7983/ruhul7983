@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://ruhul7983.github.io/developer_portfolio/"><img src="https://ruhul7983.github.io/developer_portfolio/images/Bg%20Remove.png](https://res.cloudinary.com/db4c4ud2n/image/upload/v1725196867/WhatsApp_Image_2024-09-01_at_7.20.50_PM_zxsau1.jpg" height="550px" /></a>
+<a href="https://ruhul7983.github.io/developer_portfolio/"><img src="https://res.cloudinary.com/db4c4ud2n/image/upload/v1725196867/WhatsApp_Image_2024-09-01_at_7.20.50_PM_zxsau1.jpg" height="550px" /></a>
 </div>  
   
 
